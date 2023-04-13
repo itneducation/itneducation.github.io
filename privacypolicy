@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy</title>
+    <style>
+        body {
+            font-family: 'SF Pro Display', 'Helvetica Neue', Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #fff;
+        }
+
+        .title-bar {
+            background-color: #000;
+            padding: 20px;
+            color: #fff;
+            font-size: 24px;
+        }
+
+        .title-bar h1 {
+            margin: 0;
+        }
+
+        .content {
+            padding: 20px;
+            color: #333;
+            font-size: 18px;
+        }
+
+        h2 {
+            font-size: 24px;
+            color: #000;
+            margin-top: 20px;
+            margin-bottom: 10px;
+        }
+
+        p {
+            margin-bottom: 10px;
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <div class="title-bar">
+        <h1>Privacy Policy</h1>
+    </div>
+    <div class="content">
+        <h4> Effective MARCH 23, 2023 </h4>
+
+        <h2>Introduction</h2>
+        <p>Thank you for using one of the ITNEducation product and services :</p>
+        <ul>
+            <li>QNATest Android app</li>
+            <li>QNATest web app</li>
+            <li>QNATest iOS app</li>
+        </ul>
+
+        <p>By using ITNEducation products and services, you agree to the terms of this Privacy Policy. You shouldn't use the Services if you don't agree with this Privacy Policy or any other agreement that governs your use of the Services.</p>
+
+        <p>ITNEducation ("we", "our")  respects your privacy. This Privacy Policy covers our data collection practices and describes your rights regarding your personal data. We outline below:</p>
+        <ol>
+            <li>What information do we collect?</li>
+            <li>How is information collected?</li>
+            <li>Why is information collected?</li>
+            <li>How information is used by us?</li>
+            <li>Security</li>
+            <li>Your Rights. How to review and update it?</li>
+            <li>Jurisdiction-specific rules</li>
+        </ol>
+
+        <br>
+        <h2>1. What Information do we collect ?</h2>
+        <p>We collect different data from or about you upon registration (when you create an account and use the services). Below are some examples to help you better understand the data we collect.</p>
+
+        <h3> Data provided by you </h3>
+        <table>
+            <tr>
+                <th>Category</th>
+                <th>Description</th>
+                <th>Legal Basis for Processing</th>
+            </tr>
+            <tr>
+                <td>Personal Account Data</td>
+                <td>In order to use the platform (to access the content) as a student or teacher, you need to create a user account, which requires us to collect and store your email address, password, and related account settings. Also we store additional information including country of residence and country citizen. Upon account creation, we assign you a unique User ID identifying number.</td>
+                <td>
+                    <ul>
+                        <li>Compliance to country specific privacy laws</li>
+                        <li>Legitimate interests (service provisioning, identity verification, fraud prevention and security)</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td>Learning Data</td>
+                <td>As a student, when you access content, we collect certain data including which courses, assignments, assessments, and quizzes you've started and completed; content and subscription purchases and credits; subscriptions; completion certificates; your exchanges with instructors, teaching assistants, and other students; and essays, answers to questions, and other items submitted to satisfy course and related content requirements.</td>
+                <td>
+                    <ul>
+                        <li>Performance of contract</li>
+                        <li>Legitimate interests (service provisioning, enhanced platform functionality)</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td>Communications and Support</td>
+                <td>If you contact us for help, support or to report a problem or concern (regardless of whether you have created an account), we collect and store your contact information, messages, and other data about you like your name, email address, messages, location, user ID, and any other data you provide . We use this data to respond to you and research your question or concern, in accordance with this Privacy Policy.</td>
+                <td>
+                    <ul>
+                        <li>Legitimate interests (customer and technical support)</li>
+                    </ul>
+                </td>
+            </tr>
+        </table>
+
+        <br>
+
+        <h3> Data collected through automated means, when you access the service </h3>
+        <table>
+            <tr>
+                <th>Category</th>
+                <th>Description</th>
+                <th>Legal Basis for Processing</th>
+            </tr>
+            <tr>
+                <td>Usage Data</td>
+                <td>Usage statistics about your interactions with the platform, including content accessed, time spent on pages or the Service, pages visited, features used, your search queries, click data, date and time, and other data regarding your use of the Services.</td>
+                <td>
+                    <ul>
+                        <li>Legitimate interests (service provisioning, user experience improvement, product improvement)</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td>Geolocation Data</td>
+                <td>An approximate geographic location, including information like country, city, and geographic coordinates, calculated based on your geo-coordinates or IP address.</td>
+                <td>
+                    <ul>
+                        <li>Legitimate interests (user experience improvement, fraud prevention and security, compliance)</li>
+                    </ul>
+                </td>
+            </tr>
+        </table>
+
+        <br>
+        <hr>
+
+        <h2>2.  How is Information collected ?</h2>
+        <p>We use backend tools and tracking technologies to gather the data mentioned above.We do not use Cookies. We use the Data Collection Tools for the purposes described below:</p>
+
+        <table>
+            <tr>
+                <th>Category</th>
+                <th>Description</th>
+            </tr>
+            <tr>
+                <td>Absolutely and Strictly  necessary Data</td>
+                <td>The Data Collection Tools validate you to access the platform, provide basic functionality (like logging in or accessing content), secure the site, protect against fraudulent logins, and detect and prevent abuse or unauthorized use of your account. These are required for the Services to work properly.</td>
+            </tr>
+            <tr>
+                <td>Functional Data</td>
+                <td>The Data Collection Tools resident on your personal device remembers your preferences, provides quick functionality, customizes content to be more relevant to you, and remembers settings affecting the appearance and behavior of the Services (like your preferred language or screen last visited).</td>
+            </tr>
+            <tr>
+                <td>Performance</td>
+                <td>Data Collection Tool helps measure and improve the Services by providing usage and performance data, visit counts, traffic sources, or where an application was downloaded from.</td>
+            </tr>
+        </table>
+
+        <br>
+        <hr>
+
+        <h2>3. Why is Information collected ?</h2>
+        <p>We retain your data for as long as it is needed to serve the purposes for which it was collected</p>
+
+        <table>
+            <tr>
+                <th>Purpose</th>
+                <th>Description</th>
+            </tr>
+            <tr>
+                <td>Provide and administer the Services</td>
+                <td>TTo facilitate participation in educational content, issue completion certificates, display customized content, and facilitate communication with teachers and students (Account Data; Shared Content; Learning Data; System Data; Usage Data; Approximate Geographic Data);</td>
+            </tr>
+            <tr>
+                <td>Process for your institution</td>
+                <td>Process your Data for educational content, products, specific services, information, or features (Account Data; Learning Data; Results Student Payment Data; System Data; Communications and Support);</td>
+            </tr>
+            <tr>
+                <td>Verification</td>
+                <td>Verify the identity of students and teachers (instructors)  through their account Data and if any related teacher Payment Data.</td>
+            </tr>
+            <tr>
+                <td>Improve services</td>
+                <td>
+                    <ul>
+                        <li>Improve Services and develop new products, services, and features </li>
+                        <li> analyze trends and traffic, track purchases, and track usage data (Account Data; Learning Data; Results Data, Student Payment Data; Communications and Support; System Data; Usage Data; Approximate Geographic Data);</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td>Safety and reliability of services</td>
+                <td> In our sole discretion, otherwise determined to be necessary to ensure the safety or integrity, includes detecting, preventing, and responding to fraud, abuse, security risks, and technical issues that could harm our users, employees, the public, or our Services (all data categories)</td>
+            </tr>
+        </table>
+
+        <br>
+        <hr>
+
+
+        <h2>4.  How is Information used by us ? </h2>
+        <p>We use information collected to provide better services, communicate with you, troubleshoot issues, secure against fraud and abuse, improve and update our Services, analyze how students and teachers use our Services, and as required by law or necessary for safety and integrity. We share your data with teachers and students under the following circumstances or as otherwise described in this Privacy Policy.</p>
+        <table>
+            <tr>
+                <th>Purpose</th>
+                <th>Description</th>
+            </tr>
+            <tr>
+                <td>With your Teachers (Instructors)</td>
+                <td>We share data that we have about you as a student with your teachers (instructors) or teaching assistants for educational content you access or request information about, so they can improve their content for you and other students. This data may include things like your country, browser language, operating system, device settings, certain activities like enrolled courses, assessments undertaken, completed, System Data; Usage Data; Approximate Geographic Data.</td>
+            </tr>
+            <tr>
+                <td>With other Students , as a student</td>
+                <td>We do not share your data or email address with other students , about you as a student.</td>
+            </tr>
+            <tr>
+                <td>With other Students , as a Teacher (Instructor)</td>
+                <td>As part of our use of analytics tools, we use de-identified data. De-identified data means data where we have removed your name and email address and replaced it with a random User token ID. This allows us to provide analytics services to build a database of information. We do this to study and analyze the learning and teaching behaviors in a more effective and customized manner. If we decide to leverage this as a revenue model in the future, we may use and share certain System Data and Usage Data with third-party vendors and networks to show general demographic and learning / teaching preference information among our users.</td>
+            </tr>
+            <tr>
+                <td>Safety and reliability of services</td>
+                <td>
+                    in our sole discretion, otherwise determined to be necessary to ensure the safety or integrity, includes detecting, preventing, and responding to fraud, abuse, security risks, and technical issues that could harm our users, employees, the public, or our Services (all data categories)
+                </td>
+            </tr>
+            <tr>
+                <td>Security and Legal Compliance</td>
+                <td> 
+                    We may disclose your data (all data categories) to third parties if we (in our sole discretion) have a good faith belief that the disclosure is: 
+                    <ul>
+                      <li>Requested as part of a judicial, governmental, or legal inquiry, order, or proceeding;</li>
+                      <li>Reasonably necessary as part of a valid subpoena, warrant, or other legally-valid request;</li>
+                      <li>Reasonably necessary to enforce our Terms of Use, Privacy Policy, and other legal agreements;</li>
+                      <li>Required to detect, prevent, or address fraud, abuse, misuse, potential violations of law (or rule or regulation), or security or technical issues;</li>
+                      <li>Reasonably necessary in our discretion to protect against imminent harm to the rights, property, or safety of Udemy, our users, employees, members of the public, or our Services;</li>
+                      <li>
+                        We may also disclose data about you to our auditors and legal advisors in order to assess our disclosure obligations and rights under this Privacy Policy; or Required or permitted by law.
+                      </li>
+                    </ul>
+
+                </td>
+            </tr>
+            <tr>
+                <td>Change in Control</td>
+                <td>
+                    If we undergo a business transaction like a merger, acquisition, corporate divestiture, or dissolution (including bankruptcy), or a sale of all or some of its assets, we may share, disclose, or transfer all of your data to the successor organization during such transition or in contemplation of a transition (including during due diligence). (All data categories)
+                </td>
+            </tr>
+            <tr>
+                <td>With your Permission</td>
+                <td>
+                    We will ask for your consent before using your information for a purpose that isn't covered in this Privacy Policy, for example sharing data to third parties outside the scope of this Privacy Policy (all data categories).
+                </td>
+            </tr>
+        </table>
+
+        <br>
+        <hr>
+
+        <h2>5. Security of Data </h2>
+        <p>We use appropriate security based on the type and sensitivity of data being stored. As with any internet-enabled system, there is always a risk of unauthorized access, so it's important to protect your password and to contact us if you suspect any unauthorized access to your account.</p>
+        <table>
+            <tr>
+                <th>Measure</th>
+                <th>Description</th>
+            </tr>
+            <tr>
+                <td>Security Measures</td>
+                <td>We take necessary security measures to protect against unauthorized access, alteration, disclosure, or destruction of your personal data that we collect and store. Unfortunately, however, no system can be 100% secured, so we cannot guarantee that communications between you and us, the Services, or any information provided to us in connection with the data we collect through the Services will be free from unauthorized access by third parties. Your password is an important part of our security system, and it is your responsibility to protect it. You should not share your password with any third party, and if you believe your password or account has been compromised, you should change it immediately or contact help@itneducation.com with any concerns</td>
+            </tr>
+        </table>
+
+        <br>
+        <hr>
+
+        <h2>6. Rights - How to review and update ?</h2>
+        <p>We use appropriate security based on the type and sensitivity of data being stored. As with any internet-enabled system, there is always a risk of unauthorized access, so it's important to protect your password and to contact us if you suspect any unauthorized access to your account.</p>
+        <table>
+            <tr>
+                <th>Rights</th>
+                <th>Description</th>
+            </tr>
+            <tr>
+                <td>Your Rights</td>
+                <td>
+                    <ul>
+                      <li>As a teacher, you have rights around the use of your assessment, including the ability to inactivate your assessment and your account from within our Services.</li>
+                      <li>As a student, you have rights with the ability to inactivate your account from within our Services.</li>
+                      <li>You can also contact us for individual rights requests about your personal data and help by deleting your account.</li>
+                    </ul>
+                </td>
+            </tr>
+        </table>
+
+        <br>
+        <hr>
+
+
+        <h2>7. Jurisdiction - country / region specific rules</h2>
+        <p>We use appropriate security based on the type and sensitivity of data being stored. As with any internet-enabled system, there is always a risk of unauthorized access, so it's important to protect your password and to contact us if you suspect any unauthorized access to your account.</p>
+        <table>
+            <tr>
+                <th>Regions</th>
+                <th>Description</th>
+            </tr>
+            <tr>
+                <td>Users in California</td>
+                <td>
+                    <p>
+                        Users who are California residents have certain rights under the California Consumer Privacy Act, ("CCPA"). If you are an eligible California user, included in these rights are:
+                    </p>
+                    <ul>
+                      <li><strong>Right to Know</strong> — You have the right to request to know more about the categories and specific pieces of personal information that we have collected about you and access a copy of your personal information.</li>
+                      <li><strong>Right to Correction</strong> — You have the right to have inaccurate personal information about you corrected.</li>
+                      <li><strong>Right to Deletion</strong> — You have the right to request deletion of personal information that we may have collected about you.</li>
+                      <li><strong>Right to Non-Discrimination</strong> — If you choose to exercise any of your rights under CCPA, we will treat you like all other users. In other words, there is no penalty for exercising your rights under CCPA.</li>
+                      <li><strong>Right to Opt-Out</strong> - You have the right to opt out.</li>
+                    </ul>
+                    <p>
+                        CCPA has a specific definition of a "sale" and we do not sell your personal information or the personal information of any of our users. We may use non-personally identifiable information available to select third-parties, in future. 
+                    </p>
+                    <p>
+                        To exercise any of these rights under CCPA, please email help@itneducation.com  or write to us Attn: Director, ITNEducation, 34383 Alvarado Niles Rd.  PMB 273, Union City CA 94587
+                    </p>
+                    <p>
+                        CCPA allows you to designate an authorized agent to make these requests on your behalf. For your protection, we may require that the request be sent through the email address associated with your account, and we may need to verify you and/or your agent's identity before fulfilling your request.
+                    </p>
+                </td>
+            </tr>
+            <tr>
+                <td>Users outside of the USA</td>
+                <td>
+                    <p>
+                        In order to provide the Services to you, we must transfer the assessment / QNA test related data to the United States and process it there. If you are using the Services from outside the United States, you consent to the transfer, storage, and processing of your data in and to the United States or other countries.
+                    </p>
+                </td>
+            </tr>
+        </table>
+
+        <br>
+        <hr>
+
+        <h2>8. Policy updates & Contact information</h2>
+        <p>WWhen we make any change to this policy, we'll notify in-product notice, or another mechanism required by law. Changes become effective the day they're posted. Please contact us via email or postal mail with any questions, concerns, or disputes.</p>
+        <table>
+            <tr>
+                <th>Contacts</th>
+                <th>Description</th>
+            </tr>
+            <tr>
+                <td>Questions</td>
+                <td>
+                    <p>
+                        If you have any questions, concerns, or disputes regarding our Privacy Policy, please feel free to contact us at help@itneducation.com  or write to us Attn: Director, ITNEducation, 34383 Alvarado Niles Rd.  PMB 273, Union City CA 94587
+                    </p>
+                </td>
+            </tr>
+        </table>
+
+        <br>
+        <hr>
+        <h4>Effective MARCH 23, 2023</h4>
+
+    </div>
+</body>
+</html>
